@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=800&lines=Ex-Research+Intern+%40+IIT+Delhi+Neuro+Computing+Lab;GAT+%2B+BiLSTM+%7C+EEG+Seizure+Detection+%7C+Healthcare+AI;Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Computer+Vision+%7C+YOLOv8+%7C+MediaPipe+%7C+Real-Time+AI;Robotics+%7C+ESP32+%7C+Micromouse+%7C+IIT+Cognizance+2nd+Runner-Up;Seeking+Internships+%26+AI%2FML+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=800&lines=Former+Research+Intern+%40+IIT+Delhi+Neuro+Computing+Lab;GAT+%2B+BiLSTM+%7C+EEG+Seizure+Detection+%7C+Healthcare+AI;Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Computer+Vision+%7C+YOLOv8+%7C+MediaPipe+%7C+Real-Time+AI;Robotics+%7C+ESP32+%7C+Micromouse+%7C+IIT+Cognizance+2nd+Runner-Up;Seeking+Internships+%26+AI%2FML+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
