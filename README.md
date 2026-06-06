@@ -120,7 +120,7 @@ class Vaibhav:
 - 🧪 Patient-wise cross-validation under severe class imbalance (seizure-to-normal ~1:40)
 - 📊 **84% accuracy · 0.82 Macro F1 · 0.914 ROC-AUC** on CHB-MIT benchmark
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/vaibhav668)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)]([https://github.com/vaibhav668](https://github.com/vaibhav668/Hybrid-Spatiotemporal-Graph-Neural-Network-Framework-for-EEG-Based-Epileptic-Seizure-Detection))
 
 </details>
 
@@ -141,7 +141,7 @@ class Vaibhav:
 - 👥 **Multi-Object Tracking** — SORT/DeepSORT persistent ID assignment across frames
 - 🐳 Fully **containerized Docker** deployment with live alert generation & monitoring
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/vaibhav668)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)]([https://github.com/vaibhav668](https://github.com/vaibhav668/INTELLIGUARD-AI))
 
 </details>
 
@@ -160,7 +160,7 @@ class Vaibhav:
 - 🔁 Multi-turn conversational AI grounded in video transcripts — zero hallucination architecture
 - ⚡ Lightweight Chrome extension frontend with real-time FastAPI backend communication
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/vaibhav668)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/vaibhav668/YT_AI_ASSISTANT_EXTENSION)
 
 </details>
 
@@ -179,7 +179,7 @@ class Vaibhav:
 - 📊 Evaluation with confusion matrix, precision, recall, weighted F1-score & per-role error analysis
 - 🚀 Deployed via FastAPI as a production REST API for scalable real-time resume screening
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/vaibhav668)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/vaibhav668/bert-resume-role-classifier)
 
 </details>
 
@@ -218,7 +218,7 @@ class Vaibhav:
 - 🖐️ Fully touchless HCI — complete mouse/keyboard-free interaction loop
 - ⚡ Sub-30ms hand landmark pipeline latency on standard webcam hardware
 
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/vaibhav668)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)]([https://github.com/vaibhav668](https://github.com/vaibhav668/SketchWithOpencvCv))
 
 </details>
 
