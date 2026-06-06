@@ -354,7 +354,7 @@ class Vaibhav:
 
 | Status | Title | Target Venue |
 |---|---|---|
-| 📝 In Preparation | **Hybrid Spatiotemporal Graph Neural Network Framework for EEG-Based Epileptic Seizure Detection** | NeurIPS / MICCAI / IEEE TNSRE |
+| **Hybrid Spatiotemporal Graph Neural Network Framework for EEG-Based Epileptic Seizure Detection** | Research paper currently in preparation for submission.|
 
 *Vaibhav Pokhriyal, Prof. Tapan Kumar Gandhi et al. · Neuro Computing Lab, IIT Delhi*
 
