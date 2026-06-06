@@ -62,7 +62,7 @@ class Vaibhav:
 
 **🏛️ Research Intern — Neuro Computing Lab, IIT Delhi**
 `Feb 2026 – May 2026` · *Under Prof. Tapan Kumar Gandhi, PhD (FNAE, FNASc, SMIEEE)*
-*Department of Electrical Engineering, IIT Delhi — Hauz Khas, New Delhi* · [📄 Certificate Verified](#)
+*Department of Electrical Engineering, IIT Delhi — Hauz Khas, New Delhi* · [[📄 Certificate Verified](https://drive.google.com/file/d/1yTkQkINH278gIJHyy7UGoCnLWOIMXt0E/view)](#)
 
 - Developed a novel **Hybrid GAT + BiLSTM** spatiotemporal framework for EEG-based epileptic seizure detection on the **CHB-MIT dataset** using PyTorch & PyTorch Geometric
 - Built an end-to-end EEG biomedical pipeline: **preprocessing → Pearson-correlation graph construction → feature engineering → temporal sequence modeling**
