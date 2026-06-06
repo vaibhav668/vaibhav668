@@ -346,7 +346,8 @@ class Vaibhav:
 
 </div>
 
-> ⚙️ Enable via GitHub Action — [Platane/snk](https://github.com/Platane/snk) → `.github/workflows/snake.yml`
+> ⚙️ Enable via GitHub Action — [Platane/snk](https://github.com/Platane/snk) → `- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.5.0`
 
 ---
 
