@@ -54,7 +54,7 @@ class Vaibhav:
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ class Vaibhav:
 </tr>
 </table>
 
-### 📊 Research Metrics — CHB-MIT EEG Benchmark
+###  Research Metrics — CHB-MIT EEG Benchmark
 
 | Metric | Score | Context |
 |---|---|---|
@@ -82,12 +82,12 @@ class Vaibhav:
 | 🔴 Seizure Recall | **0.78** | Sensitivity on positive class |
 | 📈 ROC-AUC | **0.914** | Clinical-grade discriminability |
 
-> 📄 **Paper in Preparation** — *"Hybrid Spatiotemporal Graph Neural Network Framework for EEG-Based Epileptic Seizure Detection"*
+📄 **Paper in Preparation** — *"Hybrid Spatiotemporal Graph Neural Network Framework for EEG-Based Epileptic Seizure Detection"*
 > Targeting: **NeurIPS · MICCAI · IEEE TNSRE**
 
 ---
 
-## 🤖 Agentic AI & GenAI Architecture
+##  Agentic AI & GenAI Architecture
 
 ```
 ┌───────────────────────────────────────────────────────────────────┐
@@ -104,7 +104,7 @@ class Vaibhav:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
 <summary><b>🧠 EEG Epileptic Seizure Detection — IIT Delhi Research [GAT + BiLSTM]</b></summary>
@@ -177,7 +177,7 @@ class Vaibhav:
 - 🎯 Fine-tuned `bert-base-uncased` with custom classification head on labeled resume corpora
 - 📑 End-to-end pipeline: PDF text extraction → tokenization → preprocessing → multi-class prediction
 - 📊 Evaluation with confusion matrix, precision, recall, weighted F1-score & per-role error analysis
-- 🚀 Deployed via FastAPI as a production REST API for scalable real-time resume screening
+-  Deployed via FastAPI as a production REST API for scalable real-time resume screening
 
 [![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github)](https://github.com/vaibhav668/bert-resume-role-classifier)
 
