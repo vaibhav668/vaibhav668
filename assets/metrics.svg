@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="Key numbers: 2 internships, 98 percent MCP Shield detection, 0.914 ROC-AUC, 3 hackathon and robotics podiums, 200+ DSA problems">
+  <defs>
+    <style>
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+      .v{font-size:34px;font-weight:800;fill:#E8E8F0}
+      .l{font-size:11px;letter-spacing:2px;fill:#A8B0D0}
+      .k{font-size:10px;letter-spacing:2px;fill:#5EC8FF}
+      .c{animation:up .9s ease-out both}
+      @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    </style>
+    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#E23636"/><stop offset="1" stop-color="#2B59C3"/></linearGradient>
+  </defs>
+  <rect width="1200" height="130" fill="#0B1230"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#bar)"/>
+  <g class="mono">
+    <g class="c"><rect x="16" y="18" width="220" height="96" fill="#0E1840" stroke="#2B59C3" stroke-opacity=".5"/><rect x="16" y="18" width="4" height="96" fill="#E23636"/>
+      <text x="36" y="40" class="k">[01] INTERNSHIPS</text><text x="36" y="82" class="v">02</text><text x="36" y="102" class="l">IITD · MIND MASTERS</text></g>
+    <g class="c" style="animation-delay:.15s"><rect x="252" y="18" width="220" height="96" fill="#0E1840" stroke="#2B59C3" stroke-opacity=".5"/><rect x="252" y="18" width="4" height="96" fill="#E23636"/>
+      <text x="272" y="40" class="k">[02] MCP SHIELD</text><text x="272" y="82" class="v">98<tspan font-size="20" fill="#E23636">%</tspan></text><text x="272" y="102" class="l">ATTACK DETECTION</text></g>
+    <g class="c" style="animation-delay:.3s"><rect x="488" y="18" width="220" height="96" fill="#0E1840" stroke="#2B59C3" stroke-opacity=".5"/><rect x="488" y="18" width="4" height="96" fill="#E23636"/>
+      <text x="508" y="40" class="k">[03] EEG GNN</text><text x="508" y="82" class="v">0.914</text><text x="508" y="102" class="l">ROC-AUC · CHB-MIT</text></g>
+    <g class="c" style="animation-delay:.45s"><rect x="724" y="18" width="220" height="96" fill="#0E1840" stroke="#2B59C3" stroke-opacity=".5"/><rect x="724" y="18" width="4" height="96" fill="#E23636"/>
+      <text x="744" y="40" class="k">[04] PODIUMS</text><text x="744" y="82" class="v">03</text><text x="744" y="102" class="l">SAARTHI · IITR · IITD</text></g>
+    <g class="c" style="animation-delay:.6s"><rect x="960" y="18" width="224" height="96" fill="#0E1840" stroke="#2B59C3" stroke-opacity=".5"/><rect x="960" y="18" width="4" height="96" fill="#E23636"/>
+      <text x="980" y="40" class="k">[05] DSA</text><text x="980" y="82" class="v">200<tspan font-size="20" fill="#E23636">+</tspan></text><text x="980" y="102" class="l">PROBLEMS SOLVED</text></g>
+  </g>
+</svg>
