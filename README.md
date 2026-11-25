@@ -87,8 +87,7 @@ class Vaibhav:
 [![repo](https://img.shields.io/badge/REPO-2B59C3?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/vaibhav668/voice-based-customer-care-agent)
 [![demo1](https://img.shields.io/badge/DEMO_01-B11226?style=flat-square&logo=youtube&logoColor=FFFFFF)](https://lnkd.in/p/gbeV64KH)
 [![demo2](https://img.shields.io/badge/DEMO_02-B11226?style=flat-square&logo=youtube&logoColor=FFFFFF)](https://lnkd.in/p/g6kd8w9V)
-[![verify](https://img.shields.io/badge/VERIFIED-0B1230?style=flat-square&logo=googledrive&logoColor=5EC8FF)](https://drive.google.com/file/d/1UKQG-RjGneT4x2fRnfYNU5fvRCaoknAA/view?usp=sharing)
-
+[![verify](https://img.shields.io/badge/VERIFIED-0B1230?style=flat-square&logo=googledrive&logoColor=5EC8FF)](https://drive.google.com/file/d/1CU7ZhHyQDsboyrDEhAmH9KRJsiGdyuv5/view?usp=sharing)
 </td>
 <td width="50%" valign="top">
 
